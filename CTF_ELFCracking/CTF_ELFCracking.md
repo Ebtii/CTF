@@ -33,7 +33,6 @@ Ensuite, nous inspectons les chaînes.
 ```bash 
 strings ch1.bin
 ```
-
 Nous trouvons notamment : 
 
 
@@ -47,8 +46,11 @@ XXXXXXXXX
 Veuillez entrer le mot de passe : 
 Bien joue, vous pouvez valider l'epreuve avec le pass : %s!
 ```
+![Capture du terminal](CTF/CTF_ELFCracking/affichage_strings.png)
 
 Or la seule chaîne qui ressemble à un mot de passe probable est `XXXXXXXXX` (le flag est volontairement masqué par respect des règles). 
+
+[Capture du terminal](CTF/CTF_ELFCracking/inputFlag.png)
 
 # Résultat 
 
