@@ -35,17 +35,6 @@ strings ch1.bin
 ```
 Nous trouvons notamment : 
 
-
-```bash 
-Allocating memory
-Reallocating memory
-XXXXXXXXX
-############################################################
-##        Bienvennue dans ce challenge de cracking        ##
-############################################################
-Veuillez entrer le mot de passe : 
-Bien joue, vous pouvez valider l'epreuve avec le pass : %s!
-```
 ![Capture du terminal](affichage_strings.png)
 
 Or la seule chaîne qui ressemble à un mot de passe probable est `XXXXXXXXX` (le flag est volontairement masqué par respect des règles). 
