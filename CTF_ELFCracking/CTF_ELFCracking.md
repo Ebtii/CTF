@@ -50,7 +50,7 @@ Bien joue, vous pouvez valider l'epreuve avec le pass : %s!
 
 Or la seule chaîne qui ressemble à un mot de passe probable est `XXXXXXXXX` (le flag est volontairement masqué par respect des règles). 
 
-[Capture du terminal](inputFlag.png)
+![Capture du terminal](inputFlag.png)
 
 # Résultat 
 
