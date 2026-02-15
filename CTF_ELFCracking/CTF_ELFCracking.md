@@ -5,7 +5,7 @@ Conformément aux bonnes pratiques des CTF, le flag final est masqué.
 
 ### Description 
 
-**Objectif :** Retrouver le mot de passe contenu dans un binaire ELF 32 bits foutni (`ch1.bin`). 
+**Objectif :** Retrouver le mot de passe contenu dans un binaire ELF 32 bits fourni (`ch1.bin`). 
 
 **Auteur :** g0uZ  
 **Source :** Root Me
