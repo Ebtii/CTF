@@ -61,7 +61,7 @@ Puis dans l'interface nous suivons les étapes suivantes :
 5. Inspection des métadonnées de l'image png récupérée 
 
 ```bash 
-exiftool anonymous.png
+exiftool anonyme.png
 ```
 
 **Résultat :** 
