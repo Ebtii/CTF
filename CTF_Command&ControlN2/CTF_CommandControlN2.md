@@ -69,7 +69,7 @@ COMPUTERNAME=WIN-XXXXXXXXXXX
 COMPUTERNAME=WIN-XXXXXXXXXXX 
 ```
 
-**Resultat : **
+**Resultat :**
 Le flag est le nom de la machine. 
 
 
