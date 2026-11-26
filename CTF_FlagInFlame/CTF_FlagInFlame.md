@@ -68,4 +68,4 @@ Résultat
 
 Le flag obtenu est :
 
-picoCTF{forensics_analysis_is_amazing_5daa4a2f}
+picoCTF{x*_x*_x*_x*_x*}

@@ -48,7 +48,7 @@ Le fichier `admin.txt` contient directement la réponse attendue :
 Password / Mot de passe : XXXXX
 ```
 
-**Mot de passe :** `XXXX`
+**Mot de passe :** `XXXXX`
 
 ## Analyse et remédiation
 
